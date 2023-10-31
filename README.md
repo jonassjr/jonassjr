@@ -1,9 +1,13 @@
+
 ### Olá! eu sou o Jonas 👋
 
 
 - 🌱 Estudando HTML/CSS/Javascript
 
-![Jonas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonassjr&show_icons=true&theme=dark)
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jonassjr&show_icons=true&theme=dark&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonassjr&theme=dark&count_private=true&layout=donut"/>
+</div>
 
 ## Tecnologias que uso no meu dia
 <div style= "display: inline_block"></br>
