@@ -10,13 +10,12 @@
 
 <div>
   <a href="https://www.linkedin.com/in/jonassjr">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-20262E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://jonassaraivajr-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/website-white?style=for-the-badge&logoColor=blue" alt="website Badge"/>
+    <img src="https://img.shields.io/badge/website-20262E?style=for-the-badge&logoColor=blue" alt="website Badge"/>
   </a>
 </div>
-
 
 #
 
