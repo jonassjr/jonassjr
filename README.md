@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%"/>
+<!-- <img src="banner.svg" width="100%"/>
 
 # Olá! eu sou o Jonas 👋
 
@@ -34,4 +34,4 @@
   ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![sass](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+ -->
